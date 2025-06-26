@@ -3,11 +3,6 @@
 
 Projeto técnico desenvolvido para automatizar rotinas comuns de manutenção em Linux, com foco em limpeza de arquivos, atualizações e backup.
 
-## Objetivo
- 
-Automatizar tarefas de manutenção em notebooks ou desktops Linux, incluindo: Limpeza de arquivos temporários, atualização do sistema e backup de pastas importantes.
-
-
 ## Tecnologias Utilizadas
 
 - bash
